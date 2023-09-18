@@ -6,6 +6,5 @@
 
 ## ⚡ Tec Stacks
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=taheri79&theme=cobalt2&show_icons=true&card_width=495px)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taheri79&show_icons=true&theme=tokyonight)  
 [![Profile Visit](https://visitcount.itsvg.in/api?id=taheri79&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/taheri79)
